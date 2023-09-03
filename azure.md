@@ -1,4 +1,5 @@
 # Core categories for Azure documentation
+
 ## Storage
 
 **Service:** Archive storage
